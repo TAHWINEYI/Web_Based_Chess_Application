@@ -2,7 +2,7 @@
 
 Welcome to the White Hat Chess App! This project is a chess application built with Spring Boot that supports various features such as move validation, file-based move imports, pawn promotion, and game resetting.
 
----
+--
 
 ## Project Overview
 
